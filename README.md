@@ -4,3 +4,4 @@ openssl --new key 1024 byte x509
 #دستور پایین بهتر است
 sdngfsdgjh
 #آقای عبدالهی خیلی خوب است
+ewertert
